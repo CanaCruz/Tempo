@@ -1,6 +1,6 @@
 # 🌤️ Aplicativo de Clima - Temperatura App
 
-Este projeto é um aplicativo web que permite ao usuário consultar o clima de qualquer cidade do mundo em tempo real, com dados como temperatura, descrição do tempo, umidade e velocidade do vento — tudo traduzido para o português.
+Este projeto é um aplicativo web que permite ao usuário consultar o clima de qualquer cidade do mundo em tempo real, com dados como temperatura, descrição do tempo, umidade e velocidade do vento.
 
 ## 🔧 Tecnologias Utilizadas
 
